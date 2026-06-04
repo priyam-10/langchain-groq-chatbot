@@ -20,21 +20,6 @@ conversation export, and a futuristic user interface.
 
 ---
 
-## 📸 Screenshots
-
-### Home Page Interface
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/priyam-10/ChatBot-AI/main/assets/screenshot-1.png" alt="Home Page Interface" width="100%">
-</p>
-
-### Main Chat Interface
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/priyam-10/ChatBot-AI/main/assets/screenshot-2.png" alt="Main Chat Interface" width="100%">
-
----
-
 ## ✨ Features
 
 ### 💬 Smart AI Conversations
