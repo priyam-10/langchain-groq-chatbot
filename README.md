@@ -25,14 +25,13 @@ conversation export, and a futuristic user interface.
 ### Home Page Interface
 
 <p align="center">
-  <img src="./assets/screenshot-1.png" alt="ChatBot AI Interface" width="100%">
+  <img src="https://raw.githubusercontent.com/priyam-10/ChatBot-AI/main/assets/screenshot-1.png" alt="Home Page Interface" width="100%">
 </p>
 
 ### Main Chat Interface
 
 <p align="center">
-  <img src="./assets/screenshot-2.png" alt="Sidebar Controls" width="100%">
-</p>
+  <img src="https://raw.githubusercontent.com/priyam-10/ChatBot-AI/main/assets/screenshot-2.png" alt="Main Chat Interface" width="100%">
 
 ---
 
