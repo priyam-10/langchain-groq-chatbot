@@ -134,7 +134,7 @@ ChatBot-AI/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/ChatBot-AI.git
+git clone https://github.com/priyam-10/langchain-groq-chatbot.git
 cd ChatBot-AI
 ```
 
