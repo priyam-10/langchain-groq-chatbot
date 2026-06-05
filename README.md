@@ -317,6 +317,7 @@ This project is licensed under the MIT License.
 ---
 
 ## 👨‍💻 Author
+**Priyam Singh**
 
 Built with ❤️ using:
 
